@@ -2,7 +2,7 @@
 
 Display How we use Version in .net wep API (URL,Query, and Header) 
 
-*Note* Query it is fast and easer type to use .
+*Note* QueryString is a faster and easier type to use .
 
 ## Features
 
