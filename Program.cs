@@ -19,7 +19,7 @@ builder.Services.AddApiVersioning(options =>
     //options.ApiVersionReader = new QueryStringApiVersionReader("hps-api-version");
 });
 builder.Services.AddVersionedApiExplorer(options =>
-{
+{ 
     options.GroupNameFormat = "'v'vvv";
     options.SubstituteApiVersionInUrl = true;
 });
