@@ -13,6 +13,6 @@ These instructions will get your copy of the project up and running on your loca
 ## Usage
 Explain how API versioning is implemented:
 
--Query String Versioning: To specify an API version through a query string, use ?api-version=1.0 or define query in program.cs and use  ?hps-api-version=1.0.
--Header Versioning: To specify an API version through a request header, include X-API-Version: 1.0 .
--URL Path Versioning: Versioning can also be performed through the URL path, e.g., /api/v1/doctors.
+- **Query String Versioning** : To specify an API version through a query string, use ?api-version=1.0 or define query in program.cs and use  ?hps-api-version=1.0.
+- **Header Versioning** : To specify an API version through a request header, include X-API-Version: 1.0 .
+- **URL Path Versioning** : Versioning can also be performed through the URL path, e.g., /api/v1/doctors.
